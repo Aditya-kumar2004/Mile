@@ -1,0 +1,49 @@
+{
+    "chatHistory": {
+        "enabled": true
+    },
+    "screenshot": {
+        "alt": true,
+        "ctrl": false,
+        "shift": false,
+        "vk": 220
+    },
+    "duelCapture": {
+        "alt": true,
+        "ctrl": false,
+        "shift": false,
+        "vk": 81
+    },
+    "toggle": {
+        "alt": true,
+        "ctrl": false,
+        "shift": false,
+        "vk": 191
+    },
+    "send": {
+        "alt": false,
+        "ctrl": true,
+        "shift": false,
+        "vk": 13
+    },
+    "autoType": {
+        "alt": true,
+        "ctrl": false,
+        "shift": false,
+        "vk": 84,
+        "minDelay": 25,
+        "maxDelay": 50,
+        "lineDelay": 120,
+        "humanizePauses": true,
+        "simulateTypos": false,
+        "swallowInput": false,
+        "smartIndent": false,
+        "enterMode": 0,
+        "source": 0
+    },
+    "login": {
+        "remember": true,
+        "username": "",
+        "password": ""
+    }
+}

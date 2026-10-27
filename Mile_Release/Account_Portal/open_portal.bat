@@ -1,0 +1,3 @@
+@echo off
+echo Starting Mile Web Portal...
+start "" "%~dp0index.html"
